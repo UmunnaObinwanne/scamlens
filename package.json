@@ -1,0 +1,48 @@
+{
+  "name": "next15-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@radix-ui/react-accordion": "^1.1.2",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@types/yup": "^0.32.0",
+    "class-variance-authority": "^0.7.0",
+    "cloudinary": "^2.5.1",
+    "clsx": "^2.1.0",
+    "date-fns": "^4.1.0",
+    "flowbite-react": "^0.10.2",
+    "formik": "^2.2.9",
+    "framer-motion": "^11.11.10",
+    "lucide-react": "^0.381.0",
+    "mongoose": "^8.7.2",
+    "next": "^15.0.1",
+    "next-cloudinary": "^6.15.0",
+    "pdfjs-dist": "^4.7.76",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-dropzone": "^14.2.10",
+    "shadcn-ui": "^0.9.2",
+    "swiper": "^11.1.14",
+    "tailwind-merge": "^2.2.2",
+    "tailwindcss-animate": "^1.0.7",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "eslint-plugin-tailwindcss": "^3.17.0",
+    "postcss": "^8",
+    "prettier": "^3.2.5",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
